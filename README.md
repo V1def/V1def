@@ -4,7 +4,7 @@ I develop various programs on Python, Rust, Go. I have experience in designing a
 
 + #### My contacts:
   + Discord: V1def#0990 ([Link](https://discord.com/users/411885690993901588))
-  + Telegram: @v1def ([Link](https://t.me.v1def))
+  + Telegram: @v1def ([Link](https://t.me/v1def))
 
 + #### Projects:
   + Durudex ([Link](https://github.com/Durudex))
