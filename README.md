@@ -1,20 +1,20 @@
 <div align="center">
 
   <h1>Hi 👋, I'm V1def</h1>
-  <h3>Software Engineer</h3>
+  <h3>A Software Engineer</h3>
 
-  <h4 style="padding-top: 20px;">📞 My contacts:</h4>
+</div>
 
-  [Discord](https://discord.com/users/411885690993901588)
++ #### 📞 My contacts:
+  + [Discord: V1def#0990](https://discord.com/users/411885690993901588)
+  + [Telegram @v1def](https://t.me/v1def)
 
-  [Telegram](https://t.me/v1def)
++ 💼 Projects:
+  + [Durudex](https://github.com/durudex)
 
-  <h4 style="padding-top: 20px;">💼 Projects:</h4>
+---
 
-  [Durudex](https://github.com/durudex)
-
-  ---
-
+<div align="center">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/?username=V1def&layout=compact)](https://github.com/V1def)
 
