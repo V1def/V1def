@@ -3,7 +3,6 @@
   <h1>Hi 👋, I'm V1def</h1>
   <h3>Software Engineer</h3>
 
-
   <h4 style="padding-top: 20px;">📞 My contacts:</h4>
 
   [Discord](https://discord.com/users/411885690993901588)
@@ -15,6 +14,9 @@
   [Durudex](https://github.com/durudex)
 
   ---
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/?username=V1def&layout=compact)](https://github.com/V1def)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V1def&layout=compact)](https://github.com/V1def)
 
