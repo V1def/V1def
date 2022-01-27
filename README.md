@@ -1,11 +1,21 @@
-<h1 align="center">Hi 👋, I'm V1def</h1>
-<h3 align="center">Software Engineer</h3>
+<div align="center">
 
-+ #### 📞 My contacts:
-  + Discord: V1def#0990 ([Link](https://discord.com/users/411885690993901588))
-  + Telegram: @v1def ([Link](https://t.me/v1def))
+  <h1>Hi 👋, I'm V1def</h1>
+  <h3>Software Engineer</h3>
 
-+ #### 💼 Projects:
-  + Durudex ([Link](https://github.com/durudex))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V1def&layout=compact)](https://github.com/V1def)
+  <h4 style="padding-top: 20px;">📞 My contacts:</h4>
+
+  [Discord](https://discord.com/users/411885690993901588)
+
+  [Telegram](https://t.me/v1def)
+
+  <h4 style="padding-top: 20px;">💼 Projects:</h4>
+
+  [Durudex](https://github.com/durudex)
+
+  ---
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V1def&layout=compact)](https://github.com/V1def)
+
+</div>
