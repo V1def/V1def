@@ -7,7 +7,7 @@
 
 + #### 📞 My contacts:
   + [Discord: V1def#0990](https://discord.com/users/411885690993901588)
-  + [Telegram @v1def](https://t.me/v1def)
+  + [Telegram: @v1def](https://t.me/v1def)
 
 + 💼 Projects:
   + [Durudex](https://github.com/durudex)
