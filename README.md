@@ -16,7 +16,7 @@
 
 <div align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/?username=V1def&layout=compact)](https://github.com/V1def)
+  [![Profile Stats](https://github-stats-alpha.vercel.app/api/?username=V1def)](https://github.com/V1def)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V1def&layout=compact)](https://github.com/V1def)
 
